@@ -1,2 +1,1 @@
-# my-copilot-plugins
-my-copilot-plugins
+# plugin-ab-company-manage
