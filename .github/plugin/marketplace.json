@@ -1,8 +1,8 @@
 {
-    "name": "ab-component-manage",
+    "name": "my-copilot-plugins",
     "metadata": {
-        "description": "公司组件管理插件，提供员工分配与管理功能。",
-        "version": "1.0.0",
+        "description": "我的 Copilot 插件。",
+        "version": "1.0.1",
         "pluginRoot": "./plugins"
     },
     "owner": {
