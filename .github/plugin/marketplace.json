@@ -2,7 +2,7 @@
     "name": "my-copilot-plugins",
     "metadata": {
         "description": "我的 Copilot 插件。",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "pluginRoot": "./plugins"
     },
     "owner": {
