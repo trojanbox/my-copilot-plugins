@@ -8,7 +8,7 @@ description: 安排一个 HR 职工。
 
 # 步骤1: HRAgent
 
-调用 `task` 工具启动一个后台子代理，配置如下：
+调用 `task` 或 `runSubagent` 子代理工具启动一个后台子代理，配置如下：
 
 - **agent_type**: `ab-hr`
 - **mode**: `background`
