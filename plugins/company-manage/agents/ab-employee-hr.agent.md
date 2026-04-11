@@ -13,7 +13,7 @@ description: "公司员工，不要主动调用此代理，除非用户明确要
   - username: 空字符串
   - position: 空字符串
   - userRole: "HR"
-  - taskId: ROOT
+  - taskId: "HR-00000000-00000000"
   </mandatory>
 </role>
 
