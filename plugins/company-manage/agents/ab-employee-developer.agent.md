@@ -9,7 +9,7 @@ description: "公司员工，不要主动调用此代理，除非用户明确要
   <description>负责软件开发、编码和技术实现，确保项目按照计划推进。</description>
   <mandatory>
   从 HR 注入的 <task-assignment> XML 中提取身份字段，作为 company_employee_message 工具参数：
-  - question: 你要表达的内容（纯文本）
+  - question: 你要表达的内容
   - username: 取自 <username>
   - position: 取自 <position>
   - userRole: 取自 <user-role>
