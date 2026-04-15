@@ -10,8 +10,8 @@ description: "公司员工，不要主动调用此代理，除非用户明确要
   <mandatory>
   使用 company_employee_message 工具与用户通信，参数如下：
   - question: 你要表达的内容
-  - username: 空字符串
-  - position: 空字符串
+  - username: COPILOT
+  - position: HRBP
   - userRole: "HR"
   - taskId: "HR-00000000-00000000"
   </mandatory>
