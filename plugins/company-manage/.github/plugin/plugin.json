@@ -1,7 +1,7 @@
 {
   "name": "company-manage",
   "description": "公司管理插件，提供员工分配与管理功能。",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "author": {
     "name": "Justwe9517 Community"
   },
